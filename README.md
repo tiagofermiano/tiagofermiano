@@ -2,8 +2,8 @@
 <h2 align="center">Front-End Developer 💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
 
-🎓 Estudante de Engenharia de Software | Universidade Univille
-🎓 Técnico em Desenvolvimento de Sistemas | Senai
+- 🎓 Estudante de Engenharia de Software | Universidade Univille
+- 🎓 Técnico em Desenvolvimento de Sistemas | Senai
 
 
 <p align="center">

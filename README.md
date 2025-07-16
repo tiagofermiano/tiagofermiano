@@ -71,7 +71,7 @@
 
 <details>
   <summary><b>💼 Clientes da minha empresa (Clout Tecnologias)</b></summary>
-  <H3> Landing Pages desenvolvidas para clientes reais:</H3>
+  <H3> Landing Pages desenvolvidas para clientes reais: (Utilizando Wordpress + Elementor)</H3>
   <p align="center">
     <a href="https://fegfaces.com.br" target="_blank">
       <img height="50" src="https://img.shields.io/badge/fegfaces.com.br-%23E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" />

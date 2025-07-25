@@ -12,7 +12,7 @@
 
 ----
 
-<p align="center">CEO da Clout Tecnologias | Marketing | Designer | Desenvolvedor Web</p>
+<p align="center">Desenvolvedor Web | Marketing | Designer | Suporte Técnico </p>
 
 ## ⚡ Já conheço!
 

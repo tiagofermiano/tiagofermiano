@@ -1,15 +1,13 @@
 ## TiagoFermiano/
 <h2 align="center">Front-End Developer 💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-
-- 🎓 Estudante de Engenharia de Software | Universidade Univille
+- 🎓 Estudante de Engenharia de Software | Universidade Univille  
 - 🎓 Técnico em Desenvolvimento de Sistemas | Senai
 
-
 <p align="center">
-  <a href="mailto:tiagomachadofermiano@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/tiago-fermiano/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="" target="_blank"><img height="25" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
- 
+  <a href="mailto:tiagomachadofermiano@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/tiago-fermiano/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
+  <a href="" target="_blank"><img height="25" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ----
@@ -28,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ## 🤔 Estou explorando
 
@@ -36,8 +34,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-
 
 ## 🤓 Projetos & GitHub
 
@@ -56,7 +52,6 @@
   <a href="https://recout.vercel.app/pages/index.html" target="_blank">
     <img height="50" src="https://i.pinimg.com/originals/d1/fb/3b/d1fb3bf49bccfcb4cec16b81dd689054.png" />
     </a>
-
   </p>
 </details>
 
@@ -64,8 +59,6 @@
   <summary><b>🎓 Projetos UNIVILLE</b></summary>
 <H3> Ainda não fizemos nenhum projeto!</H3> </p>
   <p align="center">
- 
-
   </p>
 </details>
 
@@ -86,6 +79,5 @@
     </a>
   </p>
 </details>
-
 
 <div align="center">
